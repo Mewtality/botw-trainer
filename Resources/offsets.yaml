@@ -1,8 +1,8 @@
 ---
 CodeHandler:
   Start: 0x01133000
-  End: 0x01134300
-  Enabled: 0x10014CFC
+  End: 0x0113D600
+  Enabled: 0x10014EFC
 
 Versions: 
   - Version: 1.3.1
